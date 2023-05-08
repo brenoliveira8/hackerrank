@@ -1,4 +1,4 @@
-package ex6;
+package ex1_10.ex3;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,9 +12,20 @@ public class Solution {
 
         int N = Integer.parseInt(bufferedReader.readLine().trim());
 
-        for (int i = 1; i <= 10; i++){
-            System.out.println(N + " x " + i + " = " + (N*i));
+        if(N % 2 != 0){
+            System.out.println("Weird");
+        }else {
+            if((N >= 2) && (N <= 5)){
+                System.out.println("Not Weird");
+            }
+            if((N >= 6) && (N <= 20)){
+                System.out.println("Weird");
+            }
+            if(N > 20){
+                System.out.println("Not Weird");
+            }
         }
+
         bufferedReader.close();
     }
 }

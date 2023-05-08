@@ -1,7 +1,6 @@
-package ex8;
+package ex1_10.ex8;
 
 import java.io.*;
-import java.util.*;
 
 public class Solution {
 

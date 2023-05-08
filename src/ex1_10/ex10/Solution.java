@@ -1,4 +1,4 @@
-package ex10;
+package ex1_10.ex10;
 
 import java.util.Scanner;
 

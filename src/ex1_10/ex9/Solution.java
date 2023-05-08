@@ -1,6 +1,5 @@
-package ex9;
+package ex1_10.ex9;
 
-import java.io.*;
 import java.util.*;
 
 public class Solution {
