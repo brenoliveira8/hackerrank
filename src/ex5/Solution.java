@@ -1,7 +1,6 @@
 package ex5;
 
-import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 
 public class Solution {
 
@@ -13,10 +12,6 @@ public class Solution {
         int i2 = scanner.nextInt();
         String s3 = scanner.next();
         int i3 = scanner.nextInt();
-
-        int size1 = s1.length();
-        int size2 = s2.length();
-        int size3 = s3.length();
 
         while(s1.length() != 15){
             s1 += " ";
