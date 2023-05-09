@@ -1,0 +1,15 @@
+
+9
+java:S1643"Use a StringBuilder instead.(¿“õ—8Á•şßÿ0
+8
+java:S1643!"Use a StringBuilder instead.(ÚÃ8Ìï‡àÿ0
+9
+java:S16431"Use a StringBuilder instead.(‰ƒ‘Ş8Ìï‡àÿ0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡À—úûÿÿÿÿ8Â•şßÿ0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8Óğ‡àÿ0
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(‹ñõ’8¤–şßÿ0
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8¥–şßÿ0
+T	java:S106B"9Replace this use of System.out or System.err by a logger.(œ™À8¥–şßÿ0
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ëë¢Ø8¥–şßÿ0
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(‹ñõ’8¥–şßÿ0
