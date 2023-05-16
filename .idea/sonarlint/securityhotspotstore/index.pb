@@ -21,3 +21,21 @@ L
 src/ex1_10/ex4/Solution.java,9\3\93bf337857b637bbe0519b236ec19ae347650eee
 N
 src/ex11_20/ex11/Solution.java,0\7\07928783a88b18211852322efc6075f5506b31f6
+N
+src/ex11_20/ex12/Solution.java,2\5\253cd0f7b0bddd781d4a999e542cbfa0fd03f98a
+N
+src/ex11_20/ex14/Solution.java,9\d\9d756b41c74144dd59b51512cec6572205de65db
+N
+src/ex11_20/ex15/Solution.java,3\f\3fdf444d76884974e2c328e6f876772cbfaf98d4
+N
+src/ex11_20/ex13/Solution.java,2\2\22519494cb0e1a80bf7110b5438f7facec23592c
+N
+src/ex11_20/ex16/Solution.java,5\e\5ed9a3f9f91c385130c156c4e376dd74e935e2f2
+N
+src/ex11_20/ex17/Solution.java,c\7\c71e63e5a596c8d3820e4952a16b68e4adb1b5b1
+N
+src/ex11_20/ex18/Solution.java,5\7\5795f95e2ca06f5d6d040ae56e8d803d4f99fdb0
+N
+src/ex11_20/ex20/Solution.java,f\e\feaeb68108de93ce8c17171f7cc641e2dc432ac1
+N
+src/ex11_20/ex19/Solution.java,3\9\39558938c6c50524a4009013491930c3de75d544

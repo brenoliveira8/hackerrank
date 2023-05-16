@@ -1,0 +1,30 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âıó–8Ÿ”¹€1
+d
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¸ÁÑQ8¥”¹€1
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¿¿û¤ÿÿÿÿÿ8¥”¹€1
+e
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ü”Ã¯8¦”¹€1
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(îõ˜şıÿÿÿÿ8¦”¹€1
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¸ú¨–ÿÿÿÿÿ8¦”¹€1
+e
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ÿ„Æü8¦”¹€1
+e
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¥Ø¯Æ8¦”¹€1
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ö—şÀüÿÿÿÿ8¦”¹€1
+e
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(»³±í8¦”¹€1
+e
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(úÔß…8¦”¹€1
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ë›àˆûÿÿÿÿ8¦”¹€1
+e
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¡‘ƒ8§”¹€1
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¢ëºÃşÿÿÿÿ8§”¹€1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(È’8¨”¹€1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ìâ‘ô8¨”¹€1
