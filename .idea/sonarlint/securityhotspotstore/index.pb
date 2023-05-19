@@ -39,3 +39,11 @@ N
 src/ex11_20/ex20/Solution.java,f\e\feaeb68108de93ce8c17171f7cc641e2dc432ac1
 N
 src/ex11_20/ex19/Solution.java,3\9\39558938c6c50524a4009013491930c3de75d544
+N
+src/ex21_30/ex21/Solution.java,f\e\feb42bdd974b8b8b9d69205ce04fde1630b4ce7e
+T
+$src/ex21_30/ex22/DuplicateWords.java,6\6\6652f0d0c7136a7df3fb07461bcfba7b42ab2163
+N
+src/ex21_30/ex23/Solution.java,0\9\09f31ba7c8e8eca932610db8996fa50fdd7055b0
+N
+src/ex21_30/ex24/Solution.java,4\f\4f6118140d95b4fdd7fe19adbea449bc3f4305cb
