@@ -1,0 +1,9 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê·şªùÿÿÿÿ8„ë¬Šƒ1
+v
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(»º•…8ü÷²Šƒ1
+Q
+java:S2200"/Only the sign of the result should be examined.(¸Á‹şÿÿÿÿ8–ë¬Šƒ1
+L
+java:S2200"/Only the sign of the result should be examined.(ó»¶Ì8–ë¬Šƒ1
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(äœ„ô8°„¼Šƒ1

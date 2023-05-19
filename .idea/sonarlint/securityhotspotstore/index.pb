@@ -47,3 +47,7 @@ N
 src/ex21_30/ex23/Solution.java,0\9\09f31ba7c8e8eca932610db8996fa50fdd7055b0
 N
 src/ex21_30/ex24/Solution.java,4\f\4f6118140d95b4fdd7fe19adbea449bc3f4305cb
+N
+src/ex21_30/ex25/Solution.java,f\2\f28e597b03a564a65a1f79318489913316f14041
+N
+src/ex21_30/ex26/Solution.java,1\0\10d4fd0c11e9874d616f2e3a4acde75d345e9b44
