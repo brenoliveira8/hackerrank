@@ -19,3 +19,13 @@
 ,src/javaExercises/ex31_40/ex31/Solution.java,f/0/f0eada4f41e74fee6ca5b26865158ba81f165975
 Z
 *src/javaExercises/ex1_10/ex1/Solution.java,0/1/01c111377ec12f2daa708f45e989a8c28f6ed370
+\
+,src/javaExercises/ex31_40/ex37/Solution.java,0\3\03f10e57b022d4473a108acd2a17f10b0fea7a81
+\
+,src/javaExercises/ex31_40/ex34/Solution.java,7\6\7630e244a23a5926f4f3cb89f8408563ff4b4c9b
+\
+,src/javaExercises/ex31_40/ex38/Solution.java,f\0\f02c98e00869a1293360079491d0d84e6363f18e
+\
+,src/javaExercises/ex31_40/ex39/Solution.java,5\f\5f9081cdf5b2c4587d189c80d59ae0cccb55ccf4
+X
+(src/javaExercises/ex31_40/ex40/Main.java,a\3\a34348f498a135e41a777fd5eb2119077cd923fb
