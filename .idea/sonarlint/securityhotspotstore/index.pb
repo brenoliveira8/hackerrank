@@ -29,3 +29,9 @@ Z
 ,src/javaExercises/ex31_40/ex39/Solution.java,5\f\5f9081cdf5b2c4587d189c80d59ae0cccb55ccf4
 X
 (src/javaExercises/ex31_40/ex40/Main.java,a\3\a34348f498a135e41a777fd5eb2119077cd923fb
+\
+,src/javaExercises/ex41_50/ex41/Solution.java,8\6\8633388fe36007f93d58e9ca1cbc81e1f6d2fe54
+\
+,src/javaExercises/ex41_50/ex42/Solution.java,d\1\d1fe084e3f38f718751a2d6b561b1c8c51fe6394
+\
+,src/javaExercises/ex41_50/ex43/Solution.java,1\5\159e34313d7423312859fd6c21436547fbf3b8b4
