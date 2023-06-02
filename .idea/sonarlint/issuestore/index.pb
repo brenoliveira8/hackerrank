@@ -35,3 +35,7 @@ X
 ,src/javaExercises/ex41_50/ex42/Solution.java,d\1\d1fe084e3f38f718751a2d6b561b1c8c51fe6394
 \
 ,src/javaExercises/ex41_50/ex43/Solution.java,1\5\159e34313d7423312859fd6c21436547fbf3b8b4
+\
+,src/javaExercises/ex41_50/ex44/Solution.java,4\1\41bec39c523ef67fe239b25acebc1041d0baf086
+\
+,src/javaExercises/ex41_50/ex45/Solution.java,6\2\62105cc2f2b282a119773febebf21b1ea5506cb8
