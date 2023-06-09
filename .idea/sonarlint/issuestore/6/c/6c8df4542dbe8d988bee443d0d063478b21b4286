@@ -1,0 +1,19 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·¹­Š8±Ÿ´é‡1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8¿Ÿ´é‡1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(‚…ü–ÿÿÿÿÿ8¿Ÿ´é‡1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(‚…ü–ÿÿÿÿÿ8¿Ÿ´é‡1
+m
+java:S11492"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¢Œ§Á8¿Ÿ´é‡1
+m
+java:S11492"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¢Œ§Á8¿Ÿ´é‡1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¬ŒÝúÿÿÿÿ8ÃŸ´é‡1
+c
+java:S1126,"AReplace this if-then-else statement by a single return statement.(µ„ù×úÿÿÿÿ8ÆŸ´é‡1
+n
+java:S18719"LThis branch's code block is the same as the block for the branch on line 53.(šã¥Ëÿÿÿÿÿ8ÇŸ´é‡1
+i
+java:S18717"LThis branch's code block is the same as the block for the branch on line 53.(Š¢ÿë8ÇŸ´é‡1

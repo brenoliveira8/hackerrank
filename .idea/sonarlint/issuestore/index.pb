@@ -39,3 +39,13 @@ X
 ,src/javaExercises/ex41_50/ex44/Solution.java,4\1\41bec39c523ef67fe239b25acebc1041d0baf086
 \
 ,src/javaExercises/ex41_50/ex45/Solution.java,6\2\62105cc2f2b282a119773febebf21b1ea5506cb8
+\
+,src/javaExercises/ex41_50/ex46/Solution.java,6\c\6c8df4542dbe8d988bee443d0d063478b21b4286
+\
+,src/javaExercises/ex41_50/ex47/Solution.java,f\5\f5e943788e1e9ab648133bc9c23715bfb814f72c
+\
+,src/javaExercises/ex41_50/ex48/Solution.java,c\1\c1b752a295a03a014c6af20c371a4883c59f21c1
+\
+,src/javaExercises/ex41_50/ex49/Solution.java,0\1\01137a594a7ed5e8e86dac29ae448c1725e4d904
+\
+,src/javaExercises/ex41_50/ex50/Solution.java,0\f\0fac80b4b42b2c8de296f23680ca73b7b5a0bab2
