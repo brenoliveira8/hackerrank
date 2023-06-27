@@ -49,3 +49,12 @@ X
 ,src/javaExercises/ex41_50/ex49/Solution.java,0\1\01137a594a7ed5e8e86dac29ae448c1725e4d904
 \
 ,src/javaExercises/ex41_50/ex50/Solution.java,0\f\0fac80b4b42b2c8de296f23680ca73b7b5a0bab2
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+N
+src/ibmTests/ex2/Solution.java,1\e\1e3ce2d4120f83aa542c6c69723e36b68abbb11d
+]
+-src/javaExercises/ex51_60/ex52/Singleton.java,c\2\c2540f07c20c45ce4111215f4fe0a025c98f4903
+\
+,src/javaExercises/ex51_60/ex51/Solution.java,1\5\158c7eef9d3f45a7801649c9dc3c9c6b5e3d5f6a
